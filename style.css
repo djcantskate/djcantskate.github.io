@@ -1,0 +1,14 @@
+h1{
+    color:blue;
+    text-align:center
+}
+
+body{
+    background-color:dimgray;
+    color:white;
+    margin:50px;
+    border-style: dashed;
+    border-color: blue;
+    font-family: monospace;
+    font-size:x-large;
+}
